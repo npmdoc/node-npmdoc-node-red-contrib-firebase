@@ -1,4 +1,7 @@
-# api documentation for  [node-red-contrib-firebase (v1.1.1)](https://github.com/deldrid1/node-red-contrib-firebase)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-red-contrib-firebase.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-red-contrib-firebase) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-red-contrib-firebase.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-red-contrib-firebase)
+# npmdoc-node-red-contrib-firebase
+
+#### basic api documentation for  [node-red-contrib-firebase (v1.1.1)](https://github.com/deldrid1/node-red-contrib-firebase)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-red-contrib-firebase.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-red-contrib-firebase) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-red-contrib-firebase.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-red-contrib-firebase)
+
 #### Node-Red module for interacting with Firebase
 
 [![NPM](https://nodei.co/npm/node-red-contrib-firebase.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-red-contrib-firebase)
@@ -72,7 +75,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
